@@ -1,0 +1,23 @@
+.html { 
+    background: url(pic.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .logo{
+    height: 30px;
+    width: 100px;
+    
+  }
+
+  .navbar-header{
+    height: 90px;
+    width: 90px;
+  }
+
+.btn btn-dark al{
+
+    background-color: black;
+}
